@@ -10,7 +10,11 @@ This project containes a Minigame base class as well as a Minigame Manager scrip
 
 Additionally pop up minigames can also be added which forcibly prompt the player to play them, overriding their controls until they do so. 
 
-If an optional minigame is currently in play and the pop up is triggered based on a set timer in the editor, the minigame will be held in a queue until the current game is complete.
+If an optional minigame is currently in play and the pop up is triggered based on a set timer in the editor, the minigame will be held in a queue until the current game is complete. All minigames by default have a 5 second time limit, which will obviously be adjusted per minigame.
+
+> Prototype Screenshot
+![image](https://github.com/LegendaryChibi/Vitalist/assets/80108408/51cc8e8b-b753-45de-a066-58162a710e97)
+
 
 ## Purpose
 
