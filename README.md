@@ -2,7 +2,7 @@
 
 ## Summary
 
-This is a project containing a basic base system for a second player in an indie game. The second player is responsible for playing optional minigames as well as being foreceably prompted to play minigames.
+This is a project containing a basic base system for a second player in an indie game of which I'm the Programming Lead. The second player is responsible for playing optional minigames as well as being foreceably prompted to play minigames.
 
 ## Basic System
 
