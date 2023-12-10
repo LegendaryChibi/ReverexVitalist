@@ -3,6 +3,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//Name: Joshua Varghese
+//Date: 11/27/2023
+//Purpose: The electrodes pop up minigame will run and end here
+
 public class Electrodes : Minigame
 {
 

@@ -4,6 +4,9 @@ using System.Linq;
 using UnityEditor.UIElements;
 using UnityEngine;
 
+//Name: Joshua Varghese
+//Date: 11/27/2023
+//Purpose: To manage minigames currently playing on screen
 
 public class MinigameManager : MonoBehaviour
 {

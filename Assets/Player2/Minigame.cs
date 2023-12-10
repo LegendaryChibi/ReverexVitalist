@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 
+//Name: Joshua Varghese
+//Date: 11/27/2023
+//Purpose: Base class for every minigame/ pop up
+
 public class Minigame : MonoBehaviour
 {
     protected float time = 0;

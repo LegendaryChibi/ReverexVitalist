@@ -4,6 +4,10 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
+//Name: Joshua Varghese
+//Date: 11/27/2023
+//Purpose: To display minigames to the screen
+
 public class NewBehaviourScript : MonoBehaviour
 {
     [SerializeField]
