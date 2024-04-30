@@ -13,7 +13,7 @@ Additionally pop up minigames can also be added which forcibly prompt the player
 If an optional minigame is currently in play and the pop up is triggered based on a set timer in the editor, the minigame will be held in a queue until the current game is complete. All minigames by default have a 5 second time limit, which will obviously be adjusted per minigame.
 
 > Offical Trailer
-[![Trailer](https://img.youtube.com/vi/ZynOaqeCD0A/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_ZynOaqeCD0A)
+[![Trailer](https://img.youtube.com/vi/ZynOaqeCD0A/0.jpg)](https://www.youtube.com/watch?v=ZynOaqeCD0A)
 
 
 ## Purpose
