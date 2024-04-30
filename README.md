@@ -2,7 +2,7 @@
 
 ## Summary
 
-This is a project containing a basic base system for a second player in an award winning game called Reverex, of which I was the Programming Lead. The second player is responsible for playing optional minigames as well as being foreceably prompted to play minigames.
+This is a project containing a basic base system for a second player in an award winning game called Reverex, of which I was the **Programming Lead**. The second player is responsible for playing optional minigames as well as being foreceably prompted to play minigames.
 
 ## Basic System
 
